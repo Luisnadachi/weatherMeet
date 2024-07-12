@@ -1,0 +1,17 @@
+{
+    "name": "nadachi/weather-meet",
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Nadachi\\WeatherMeet\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nadachi",
+            "email": "luiseduardort2001@gmail.com"
+        }
+    ]
+}
